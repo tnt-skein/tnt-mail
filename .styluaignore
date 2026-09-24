@@ -1,0 +1,6 @@
+.rocks/
+var/
+.tmp_mutant.*
+*.um.backup.*
+# Шаблоны писем: HTML с вкраплениями, не Lua.
+**/*.thtml.lua
